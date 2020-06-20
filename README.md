@@ -1,4 +1,4 @@
-# Gate
+# Open Ai Game Bot Test
 
 This is a quick and fun test to run the library open-ai gym retro a library that provide an enviroment to train reinforcement learning agents on old console games
 For this example we train an agent using an implementation of the algorithm Brute which also provided for open ai
